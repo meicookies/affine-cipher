@@ -3,8 +3,8 @@ import string
 class cipher:
     def __init__(self, text, slope, intercept):
         self.alphabet = string.ascii_lowercase
-        self.slope = slope
-        self.intercept = intercept
+        self.slope = slope # a
+        self.intercept = intercept # b
         self.text = text.lower()
     def process(self, tujuan):
         result = str()
