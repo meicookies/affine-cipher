@@ -4,3 +4,4 @@ Affine Cipher adalah algoritma kriptografi yang dikembangkan dari metode Caesar 
 
 ![enkripsi](https://user-images.githubusercontent.com/79348524/189496440-c0daaf48-a48c-4a4f-9811-cf2b737da65e.png)
 ![dekripsi](https://user-images.githubusercontent.com/79348524/189496460-d402774b-b071-4eb3-b4de-b797bca7cfdc.png)
+![program](https://user-images.githubusercontent.com/79348524/189496764-f3ea7fb0-441d-4353-aa75-70ecedcdeda0.png)
